@@ -24,7 +24,8 @@ make import system use following method
 
 CHECK YOUR MAIN MENU IF YOUR NAME IS MAIN SO USE THIS IMPORT SYSTEM
 
-from SAMEER import main
+from SAMEER import 
+main
 main() 
 
 
